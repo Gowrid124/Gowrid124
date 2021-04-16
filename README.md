@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gowrid124
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science #Budding Data Scientist
 - 🌱 I’m currently learning to develop data science projects
 - 📫 Reach me on gowrid124@gmail.com
 
